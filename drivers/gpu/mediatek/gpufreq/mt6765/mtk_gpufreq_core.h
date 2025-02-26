@@ -68,6 +68,7 @@
 
 #define SEG3_GPU_DVFS_VSRAM0			(87500)		/* mV x 100 */
 #define SEG3_GPU_DVFS_VSRAM1			(87500)		/* mV x 100 */
+#define SEG3_GPU_DVFS_VSRAM1			(87500)		/* mV x 100 */
 #define SEG3_GPU_DVFS_VSRAM3			(87500)		/* mV x 100 */
 #define SEG3_GPU_DVFS_VSRAM4			(87500)		/* mV x 100 */
 #define SEG3_GPU_DVFS_VSRAM5			(87500)		/* mV x 100 */
