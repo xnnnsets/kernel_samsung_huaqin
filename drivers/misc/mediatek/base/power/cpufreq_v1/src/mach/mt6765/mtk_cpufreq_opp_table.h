@@ -384,7 +384,7 @@
 
 /* for DVFS OPP table */
 #define CPU_DVFS_VOLT0_VPROC_L_C65    105100          /* 10uV */
-#define CPU_DVFS_VOLT1_VPROC_L_C65    106000          /* 10uV */
+#define CPU_DVFS_VOLT1_VPROC_L_C65    100000          /* 10uV */
 #define CPU_DVFS_VOLT2_VPROC_L_C65     98500          /* 10uV */
 #define CPU_DVFS_VOLT3_VPROC_L_C65     97750          /* 10uV */
 #define CPU_DVFS_VOLT4_VPROC_L_C65     95000          /* 10uV */
